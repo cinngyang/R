@@ -1,4 +1,5 @@
 # R
-R 語言學習
-ggmap
-ggplot2
+R 語言學習<br>
+ggmap<br>
+ggplot2<br>
+reshap2(樞紐)<br>
