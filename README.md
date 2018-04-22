@@ -4,6 +4,6 @@ R 語言學習<br>
 conda 安裝 R package 
 conda install -c conda-forge r-ggplot2<br>
 
-<a href="https://github.com/cinngyang/R/blob/master/R-ggmap.ipyn">ggmap</a><br>
-<a href="https://github.com/cinngyang/R/blob/master/ReShap2.ipynb">ReShap2</a><br>
-<a href="https://github.com/cinngyang/R/blob/master/Cluster.ipynb">Cluster</a><br>
+[ggmap](/R-ggmap.ipyn/)<br>
+[ReShap2 樞紐](/ReShap2.ipynb/)<br>
+[Cluster](/Cluster.ipynb/)<br>
