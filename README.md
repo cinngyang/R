@@ -6,8 +6,14 @@ conda install -c conda-forge r-ggplot2<br>
 conda install -c defaults zeromq (Fixed R kernel in Jupyter keeps dying)<br>
 [Fixed there is no package called 'IRkernel'](https://irkernel.github.io/installation/)<br>
 
-Jupyter 顯示或隱藏 code
-```
+<a href="#Jupyter 顯示或隱藏 code">Jupyter 顯示或隱藏 code</a>
+
+
+
+[dplyr](/dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
+
+<a name="Jupyter 顯示或隱藏 code">Jupyter 顯示或隱藏 code</a>
+
 library(IRdisplay)
 
 display_html(
@@ -27,9 +33,3 @@ $( document ).ready(code_toggle);
     <input type="submit" value="Click here to toggle on/off the raw code.">
  </form>'
 )
-```
-***
-
-
-
-[dplyr](/dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
