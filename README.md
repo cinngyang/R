@@ -32,4 +32,4 @@ $( document ).ready(code_toggle);
 
 
 
-[dplyr](/dplyr.ipynb/)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](/R-ggmap.ipynb/)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
+[dplyr](/dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
