@@ -33,3 +33,11 @@ $( document ).ready(code_toggle);
     <input type="submit" value="Click here to toggle on/off the raw code.">
  </form>'
 )
+
+'''df$f <- factor(df$f, levels=c('a','b','c'),
+  labels=c('Treatment A: XYZ','Treatment B: YZX','Treatment C: ZYX'))
+is telling to R that there is a vector df$f
+
+which you want to transform into a factor,
+in which the different levels are coded as a, b, and c
+and for which you want the levels to be labeled as Treatment A etc.'''
