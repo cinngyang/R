@@ -4,13 +4,7 @@ R 語言學習<br>
 conda 安裝 R package 
 conda install -c conda-forge r-ggplot2<br>
 conda install -c defaults zeromq (Fixed R kernel in Jupyter keeps dying)<br>
-[Fixed there is no package called 'IRkernel'](https://irkernel.github.io/installation/)<br>
-
-<a href="#Jupyter 顯示或隱藏 code">Jupyter 顯示或隱藏 code</a>
-
-
-
-[dplyr](/dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
+[Fixed there is no package called 'IRkernel'](https://irkernel.github.io/installation/)<br><a href="#Jupyter 顯示或隱藏 code">Jupyter 顯示或隱藏 code</a><br>[80/20 法則資料演練](Pareto Principle.ipynb)<br>[dplyr](dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
 
 <a name="Jupyter 顯示或隱藏 code">Jupyter 顯示或隱藏 code</a>
 
