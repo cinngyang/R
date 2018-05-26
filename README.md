@@ -3,7 +3,7 @@ R 語言學習<br>
 
 ***
 
-[80/20 法則資料演練](ParetoPrinciple.ipynb)<br>[dplyr](dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[Cluster](/Cluster.ipynb/)<br>
+[80/20 法則資料演練](ParetoPrinciple.ipynb)<br>[dplyr](dplyr.ipynb/)<br>[tidry](tidry.ipynb)<br>[BOM分析使用tidyr](/tidyr_Reshap.ipynb)<br>[ReShap2 樞紐](/ReShap2.ipynb/)<br>[ggplot2](ggplot2.ipynb)<br>[ggmap](R-ggmap.ipynb)<br>[Cluster](/Cluster.ipynb/)<br>
 
 癡呆區-常忘<br>
 
